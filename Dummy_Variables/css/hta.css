@@ -1,0 +1,101 @@
+div  {
+  display: block;
+  margin: 10px;
+}
+#knopki{
+  margin-top: 40px;
+
+}
+main{
+  position:relative;
+  width: flex;
+  font-size: 140%;
+
+}
+
+#opr{
+
+}
+
+#t {
+  float: left;
+  top: 10px;
+  left: 20px;
+  width:200px;
+}
+
+#table {
+  float: left;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+#table2 td, th, tr {
+  border: white;
+
+}
+
+td, th {
+  border-collapse: collapse;
+  border: 3px solid black;
+    text-align: center;
+    width: 60px;
+    font-size: 75%;
+}
+
+.vivod{
+  width: 100px;
+}
+
+.fun {
+    width: 80px;
+}
+
+#knopki button{
+margin-top: 2px;
+  display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.button{
+  background-color: white;
+}
+
+.exercise{
+  background-color: #2b4b82;
+  color: white;
+  height: 50%;
+   border: 5px solid #2b4b82;
+  width: 50%;
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#exe{
+  font-size: 140%;
+}
+
+#fe{
+  font-size: 140%;
+}
+
+#button{
+  font-size: 110%;
+}
+
+#vibran{
+  background-color: #2b4b82;
+  color: white;
+  height: 50%;
+   border: 5px solid #2b4b82;
+  width: 50%;
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.mm{
+  float: left;
+    height: 50%;
+  border: 5px solid #2b4b82;
+    width: 50%;
+}
